@@ -1,0 +1,14 @@
+D:\Work\BookingManager\BookingManager.Services\bin\Debug\netcoreapp3.0\BookingManager.Services.deps.json
+D:\Work\BookingManager\BookingManager.Services\bin\Debug\netcoreapp3.0\BookingManager.Services.dll
+D:\Work\BookingManager\BookingManager.Services\bin\Debug\netcoreapp3.0\BookingManager.Services.pdb
+D:\Work\BookingManager\BookingManager.Services\obj\Debug\netcoreapp3.0\BookingManager.Services.csprojAssemblyReference.cache
+D:\Work\BookingManager\BookingManager.Services\obj\Debug\netcoreapp3.0\BookingManager.Services.AssemblyInfoInputs.cache
+D:\Work\BookingManager\BookingManager.Services\obj\Debug\netcoreapp3.0\BookingManager.Services.AssemblyInfo.cs
+D:\Work\BookingManager\BookingManager.Services\obj\Debug\netcoreapp3.0\BookingManager.Services.dll
+D:\Work\BookingManager\BookingManager.Services\obj\Debug\netcoreapp3.0\BookingManager.Services.pdb
+D:\Work\BookingManager\BookingManager.Services\bin\Debug\netcoreapp3.0\BookingManager.Models.dll
+D:\Work\BookingManager\BookingManager.Services\bin\Debug\netcoreapp3.0\BookingManager.Repository.dll
+D:\Work\BookingManager\BookingManager.Services\bin\Debug\netcoreapp3.0\BookingManager.Models.pdb
+D:\Work\BookingManager\BookingManager.Services\bin\Debug\netcoreapp3.0\BookingManager.Repository.pdb
+D:\Work\BookingManager\BookingManager.Services\obj\Debug\netcoreapp3.0\BookingManager.Services.csproj.CopyComplete
+D:\Work\BookingManager\BookingManager.Services\obj\Debug\netcoreapp3.0\BookingManager.Services.csproj.CoreCompileInputs.cache
