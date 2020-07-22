@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/Employee/Get",
+      "launchUrl": "Employee/Index",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,7 +20,7 @@
     "BookingManager": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/Employee/Get",
+      "launchUrl": "Employee/Index",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
