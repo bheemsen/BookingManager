@@ -1,0 +1,4 @@
+D:\Work\BookingManager\BookingManager\obj\Debug\netcoreapp2.2\BookingManager.csprojAssemblyReference.cache
+D:\Work\BookingManager\BookingManager\obj\Debug\netcoreapp2.2\BookingManager.csproj.CoreCompileInputs.cache
+D:\Work\BookingManager\BookingManager\obj\Debug\netcoreapp2.2\BookingManager.AssemblyInfoInputs.cache
+D:\Work\BookingManager\BookingManager\obj\Debug\netcoreapp2.2\BookingManager.AssemblyInfo.cs
